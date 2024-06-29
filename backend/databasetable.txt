@@ -1,0 +1,25 @@
+User:
+firstName
+lastName 
+age
+gender
+email
+password 
+height
+weight
+dp(deitprefrence)
+alg(allgeries)
+hg(Health goal)
+
+Deit
+foodname
+claories
+protein
+fat
+carbohydatres
+fiber
+sugar
+vitamin 
+mineral
+servingSize
+createdAt
